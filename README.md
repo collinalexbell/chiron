@@ -14,5 +14,5 @@ I have a lot of projects I want to work on intensely. However, when I work on my
 
 Chiron, being a half man, half beast with his youth-nurturing nature, is the perfect name for a robot that will be used to help me raise a young poodle well.
 
-
+![](pics/chiron_the_greek_myth/Chiron_tutoring_Achilleus.jpg)
 

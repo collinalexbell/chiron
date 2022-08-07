@@ -3,6 +3,8 @@
 - Will it be a full centar?
 - Will it be a humanoid robot riding a horse robot?
 
+The answer after some deliberation is that Chiron the robot will be an actual centar. See [Centauro](https://www.youtube.com/watch?v=L7JssknlCvw) for inspiration here
+
 The quadrapede will probably have wheels
 
 # Reference Examples

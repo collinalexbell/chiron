@@ -29,6 +29,11 @@ yRot
 [CAD files](https://cults3d.com/en/3d-model/gadget/lad-robotic-torso-v1-0-humanoid-robot)
 
 
+# Finalized Morphology
+
+[Anymal base](https://www.youtube.com/watch?v=KH6DvvHFpdA), [Centauro torso](https://www.youtube.com/watch?v=L7JssknlCvw)
+
+
 
 # Cool stuff I found while researching
 

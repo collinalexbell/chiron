@@ -7,7 +7,7 @@
 
 ## Locamotion
 
-- [16 channel, 12 bit PWM servo driver](https://www.amazon.com/gp/product/B07RMTN4NZ)
+- 2 x [16 channel, 12 bit PWM servo driver](https://www.amazon.com/gp/product/B07RMTN4NZ)
 
 ### Quadraped Base
 
@@ -16,6 +16,10 @@
 - 12 x [35kg-cm servo motor, 7.4V](https://www.amazon.com/gp/product/B097DWW6PY)
 
 ### Humanoid Torso
+
+- 6 x [MG996R Servo](https://www.amazon.com/4-Pack-MG996R-Torque-Digital-Helicopter/dp/B07MFK266B)
+
+- 4 x [25kg-cm Servo](https://www.amazon.com/gp/product/B08739MGPL)
 
 ## Nervous System
 

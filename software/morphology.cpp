@@ -26,7 +26,32 @@ class Leg {
   Hip hip;
 };
 
-class Torso {};
+class Shoulder {
+  DOF inlineDof; // 25kg servo
+  DOF perpDof;  // 25kg servo
+}
+
+class UpperArm {
+  DOF inlineDof; // mg996r
+  DOF elbow; // 25kg servo
+}
+
+class LowerArm {
+  // this is ulna/radius
+  DOF inlineDof; // mg996r
+  // a wrist is 2DOF
+  // but this wrist is only 1 DOF
+  DOF wrist; // mg996r
+}
+
+class Hand {
+  DOF Pincer // mg996r
+}
+
+
+class Torso {
+  Shoulder shoulder;
+};
 class Base {
   float height = 50;//cm
   Leg legs[4];

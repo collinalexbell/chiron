@@ -70,10 +70,10 @@ module horn() {
   }
 }
 
-module Servo25kg(x) {
+module Servo35kg(x) {
   body();
   tab();
   rotate([0,x,0]) horn();
 }
 
-Servo25kg(/*$t*180*//*animation*/    0/*not animation*/);
+Servo35kg(/*$t*180*//*animation*/    0/*not animation*/);

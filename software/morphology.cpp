@@ -28,7 +28,7 @@ class Leg {
 
 class Shoulder {
   DOF inlineDof; // 25kg servo
-  DOF perpDof;  // 25kg servo
+  DOF perpendicularDof;  // 25kg servo
 }
 
 class UpperArm {
